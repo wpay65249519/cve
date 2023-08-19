@@ -1,5 +1,9 @@
 SQL injection vulnerability exists in the smart table integrated management system of Xintian Technology Co., LTD
 
+official website:https://www.suntront.com/
+
+verison:Ver5.6.9
+
 Loophole file: / / SysManage AddUpdateRole. Aspx
 
 Vulnerability parameter: txtRoleName
